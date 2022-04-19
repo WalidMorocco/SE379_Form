@@ -1,5 +1,5 @@
 import './App.css';
-import {SignUpForm, clearForm} from './Form'
+import SignUpForm from './Form'
 
 function App() {
   return (
